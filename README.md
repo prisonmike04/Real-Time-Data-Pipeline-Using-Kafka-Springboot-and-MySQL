@@ -22,10 +22,3 @@ This project tracks real-time changes on Wikimedia (the platform behind Wikipedi
 - **Reliability:** The system continuously processes and records data without missing events.
 - **Data Organization:** Stored data can be analyzed, used for reports, or built upon for further tools.
 
-## Prerequisites
-To run this system, you need:
-- **Java:** The programming language used for development.
-- **Kafka:** The message queue system managing real-time data.
-- **MySQL:** The database used for storing changes.
-- **Maven:** A build and management tool for the project.
-
