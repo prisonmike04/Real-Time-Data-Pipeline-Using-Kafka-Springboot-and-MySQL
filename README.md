@@ -5,7 +5,9 @@ This project tracks real-time changes on Wikimedia (the platform behind Wikipedi
 
 ## Technologies Used
 -Apache Kafka – Distributed messaging and streaming platform.
+
 -Spring Boot – Framework for building enterprise Java applications.
+
 -MySQL – Relational database management system for persistent data storage.
 
 ## How It Works
